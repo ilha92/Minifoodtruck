@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "price": 10,
+    "image": "images/pizzas.jpeg",
+    "description": "patte eco +, sauce tomate, fromage et pepperoni d'italie wallah "
+  },
+  {
+    "id": 2,
+    "name": "Tacos",
+    "price": 8,
+    "image": "images/tacos.jpeg",
+    "description": "Tortilla  de poulet épicé, fromage et sauce du chef tkt."
+  },
+  {
+    "id": 3,
+    "name": "Salade",
+    "price": 7.5,
+    "image": "images/salade.jpeg",
+    "description": "Salade eco +, poulet grillé de pologne, parmesan et croûtons de peaux mortes."
+  },
+  {
+    "id": 4,
+    "name": "Sushis",
+    "price": 20,
+    "image": "images/sushis.jpeg",
+    "description": "Sushis pas frais mais tkt dit bismillah c'est bon."
+  },
+  {
+    "id": 5,
+    "name": "Poulet vindaloo",
+    "price": 13,
+    "image": "images/bouzelouf.jpeg",
+    "description": "Poulet ehh nn nouvelle recette du chef Maxi Bouzelouf, un délice pour les papilles aya bismillah."
+  },
+  {
+    "id": 6,
+    "name": "Burger",
+    "price": 7.5,
+    "image": "images/burger.jpeg",
+    "description": "Pain brioché, steak, salade, tomate et sauce du chef ;)."
+  }
+]
